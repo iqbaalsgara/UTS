@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daftar Mahasiswa Unpam</string>
+    <string name="insert_student">Tambah Mahasiswa</string>
+    <string name="name">Muhammad Iqbal</string>
+    <string name="nim">201011401251</string>
+    <string name="fakultas">Fakultas Informatika</string>
+</resources>
